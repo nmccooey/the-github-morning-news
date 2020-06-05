@@ -1,0 +1,1 @@
+A basic homepage for a fictitious news website. Made with HTML and CSS. Flexbox and Google Fonts was used.
